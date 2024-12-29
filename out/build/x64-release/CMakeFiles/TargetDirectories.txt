@@ -1,0 +1,3 @@
+C:/Users/PC/Desktop/lab4alt/out/build/x64-release/CMakeFiles/lab4alt.dir
+C:/Users/PC/Desktop/lab4alt/out/build/x64-release/CMakeFiles/edit_cache.dir
+C:/Users/PC/Desktop/lab4alt/out/build/x64-release/CMakeFiles/rebuild_cache.dir
